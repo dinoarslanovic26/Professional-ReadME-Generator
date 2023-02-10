@@ -1,4 +1,4 @@
-# Test
+# Professional README Generator
 
   ## Table of Contents 
   - [Description](#description)
@@ -10,23 +10,23 @@
   - [Questions](#questions)
 
   ## Description 
-  for testing
+  You are able to use this repository to create your own README that is professional and detailed.
 
   ## Installation
-  tests
+  You can clone my project to your computer and use it for yourself after that. But you will need to npm install and install the inquierer to get it running.
 
   ## Usage
-  test
+  You are able to answer questions that detail your README. You can follow along with my video [here](https://drive.google.com/file/d/1WI95av6N8l8n0tluUQNa5FHZISgjbzrk/view).
   
   ## License
   The license used: MIT
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Contributing
-  edd
+  Just me for now.
 
   ## Test
-  node index.js
+  You go to your terminal and you can node index.js to see your prompts
   ## Questions
   If you have any questions about anything in this repository please feel free to reach out via
 
